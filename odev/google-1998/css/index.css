@@ -1,0 +1,45 @@
+.bg-search {
+  background-color: #eeeeee;
+}
+.bg-bar-1 {
+  background-color: #7ee5da;
+}
+.bg-bar-2 {
+  background-color: #70ccc2;
+}
+.bg-bar-3 {
+  background-color: #62b3aa;
+}
+
+.container {
+  width: 1140px;
+  padding-bottom: 20px;
+}
+.center {
+  display: block;
+  margin: 1px auto 0;
+  text-align: center;
+}
+.bar-1 {
+  width: 417px;
+  float: left;
+  font-size: 16px;
+  margin: 1px 1px 0 62px;
+  padding: 15px 15px;
+}
+.bar-2 {
+  width: 240px;
+  float: left;
+  font-size: 12px;
+  padding: 12px 12px;
+}
+.bar-3 {
+  width: 417px;
+  float: left;
+  font-size: 12px;
+  padding: 5px 5px;
+}
+.end {
+    padding-top:90px;
+    font-size:13px;
+}

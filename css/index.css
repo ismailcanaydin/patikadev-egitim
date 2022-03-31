@@ -50,3 +50,7 @@ title{
 .title {
     color: rgb(0, 26, 255);
 }
+
+.container > p.intro + ul > li:first-child {
+  color: orange;
+  }
