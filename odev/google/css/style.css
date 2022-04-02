@@ -164,6 +164,7 @@
 
 .footerli {
   float: left;
+  list-style-type:none;
 }
 
 .footerli a {
