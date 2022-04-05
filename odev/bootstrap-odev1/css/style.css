@@ -1,0 +1,40 @@
+.bg-nav {
+    background-color: #333c83c2;
+}
+.bg-footer {
+    background-color: #333c83c2;
+}
+.bg-a {
+    color: aliceblue;
+}
+.bg-body {
+    background-color: white;
+}
+.p-title {
+    color: #FDAF75;
+}
+.h-title {
+    
+    color: #F24A72;
+}
+.title-center {
+    text-align: center;
+}
+.ul-type {
+    list-style-position: inside; 
+    list-style-type: circle;
+}
+.li-type {
+    size: 16px;
+}
+.price {
+    background-color: #333C83;
+    color: #E9ECEF;
+}
+.card-style {
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.card-img-top {
+	padding: 25px;
+}
